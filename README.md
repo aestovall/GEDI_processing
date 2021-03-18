@@ -1,10 +1,3 @@
----
-title: "Introduction to GEDI Processing"
-output:
-  html_document: default
-  pdf_document: default
----
-
 # Getting Started with Finding Available GEDI (from rGEDI tutorial page)
 
 ## Installation of rGEDI
